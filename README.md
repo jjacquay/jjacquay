@@ -1,16 +1,16 @@
-## Hi there 👋
+#Hi I'm Jarah Jacquay
 
-<!--
-**jjacquay/jjacquay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build applied tools for place-based health, civic renewal, and mission-aligned development.
 
-Here are some ideas to get you started:
+My work sits at the intersection of public health, real estate, civic infrastructure, institutional strategy, and human flourishing. I use GitHub as a working lab for prototypes, dashboards, research tools, and AI-assisted workflows that help translate complex systems into practical action.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current areas of focus:
+
+- place-based health and environmental risk
+- trail-oriented and resilience-oriented real estate
+- civic technology for local decision-making
+- AI-supported research, planning, and execution systems
+
+I am based in Pensacola, Florida, where my work connects healthcare, land use, nonprofit leadership, public-interest development, and mission-aligned capital.
+
+This profile is a public workshop: a place where strategic ideas become prototypes, prototypes become tools, and tools become institutions.
