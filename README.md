@@ -1,4 +1,4 @@
-Hi I'm Jarah Jacquay
+Hi I'm Jarah Jacquay!
 
 I build applied tools for place-based health, civic renewal, and mission-aligned development.
 
