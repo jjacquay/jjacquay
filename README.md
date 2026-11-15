@@ -1,15 +1,21 @@
 # Jarah Jacquay
 
-Clinical nurse leader and place-based developer in Pensacola, Florida. I build public-record tools that help communities and institutions see a place clearly before they commit to it.
+**Healthier people. Stronger places. Better institutions.**
 
-Most repositories here are private. The work is live:
+Clinical nurse leader and development advisor in Pensacola, Florida. I build tools that turn public records and research into clearer decisions about health, land, infrastructure, and community life.
 
-- **Panhandle PFAS Atlas** — public-record PFAS evidence for Florida's 1st District · [panhandle-pfas.vercel.app](https://panhandle-pfas.vercel.app)
-- **American Sprawl Index** — tract-scale compactness against health outcomes across Gulf South metros · [sprawl-index.vercel.app](https://sprawl-index.vercel.app)
-- **American Social Habitat Atlas** — five domains of community flourishing across ~2,300 tracts · [social-habitat.vercel.app](https://social-habitat.vercel.app)
-- **Street Smarts** — high-injury corridors and Complete Streets fixes for Escambia County · [street-smarts.vercel.app](https://street-smarts.vercel.app)
-- **Heat Map** — heat and cold illness mapped from public records · [heat-map-delta.vercel.app](https://heat-map-delta.vercel.app)
+## Selected work
 
-Full index: [jjacquay.com](https://jjacquay.com) · Firm: [Virtuous Cycle](https://virtuouscycle.dev) · Essays: [Virtue Signals](https://signals.virtuouscycle.dev)
+| Project | What it helps people do |
+| --- | --- |
+| [**Panhandle PFAS Atlas**](https://panhandle-pfas.vercel.app) | Explore documented PFAS investigations in Northwest Florida, distinguish evidence from uncertainty, and trace findings to public records. |
+| [**Heat Map**](https://heatmap-vcllc.vercel.app) | Explore heat and cold illness records with clear distinctions between reported counts, rates, and environmental context. |
+| [**Street Smarts**](https://street-smarts.vercel.app) | Explore high-injury corridors in Escambia County and prepare a practical brief for a public conversation about safer streets. |
+| [**American Social Habitat Atlas**](https://social-habitat.vercel.app) | Examine how built form, institutions, economic opportunity, relationships, and civic life overlap across communities. |
+| [**American Sprawl Index**](https://sprawl-index.vercel.app) | Explore relationships between neighborhood compactness, household cost burdens, and population health across Gulf South metros. |
+
+These applications are publicly accessible; their source repositories are private. Each project documents its data sources, methods, and limitations.
+
+[**Portfolio**](https://jjacquay.com) · [**Virtuous Cycle**](https://virtuouscycle.dev) · [**Writing: Virtue Signals**](https://signals.virtuouscycle.dev) · [**LinkedIn**](https://www.linkedin.com/in/jjacquay)
 
 Personal work. Views are my own and do not represent any employer.
