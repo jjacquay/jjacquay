@@ -9,7 +9,7 @@ Clinical nurse leader and development advisor in Pensacola, Florida. I build too
 | Project | What it helps people do |
 | --- | --- |
 | [**Panhandle PFAS Atlas**](https://panhandle-pfas.vercel.app) | Explore documented PFAS investigations in Northwest Florida, distinguish evidence from uncertainty, and trace findings to public records. |
-| [**Heat Map**](https://heatmap-vcllc.vercel.app) | Explore heat and cold illness records with clear distinctions between reported counts, rates, and environmental context. |
+| [**Heat Map**](https://heat-heatmap.vercel.app) | Explore heat and cold illness records with clear distinctions between reported counts, rates, and environmental context. |
 | [**Street Smarts**](https://street-smarts.vercel.app) | Explore high-injury corridors in Escambia County and prepare a practical brief for a public conversation about safer streets. |
 | [**American Social Habitat Atlas**](https://social-habitat.vercel.app) | Examine how built form, institutions, economic opportunity, relationships, and civic life overlap across communities. |
 | [**American Sprawl Index**](https://sprawl-index.vercel.app) | Explore relationships between neighborhood compactness, household cost burdens, and population health across Gulf South metros. |
